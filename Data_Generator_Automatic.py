@@ -1,3 +1,4 @@
+# This code is used for automatic collection of Image Dataset for Creating Custome Model Training 
 import cv2
 import os
 import time
