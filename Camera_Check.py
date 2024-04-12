@@ -1,4 +1,4 @@
-# This code is used for automatic collection of Image Dataset for Creating Custome Model Training 
+# This code is used for checking your camera and display video stream 
 import cv2
 
 def main():
